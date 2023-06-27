@@ -51,8 +51,8 @@
 <!-- Main jumbotron for a primary marketing message or call to action -->
 <div class="jumbotron">
     <div class="container">
-        <h1>ADITI PANNT</h1>
-        <p>why is aditi such a ass. </p>
+        <h1>Hashim khan</h1>
+        <p>why is hashim such a vella </p>
         <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
     </div>
 </div>
@@ -61,18 +61,18 @@
     <!-- Example row of columns -->
     <div class="row">
         <div class="col-md-4">
-            <h2>ADITI2</h2>
-            <p>aditi is now rich people. </p>
+            <h2>hashim1</h2>
+            <p>hashim does not like to do any work in office. </p>
             <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
         <div class="col-md-4">
-            <h2>ADITI3</h2>
-            <p>she got a new job. </p>
+            <h2>hashim2</h2>
+            <p>hashim loves only chuttad. </p>
             <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
         <div class="col-md-4">
-            <h2>ADITI4</h2>
-            <p> aditi loves her current bosses</p>
+            <h2>hashim3</h2>
+            <p> hashim still got a new job at kotak but his resign is still not approved</p>
             <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
         </div>
     </div>
