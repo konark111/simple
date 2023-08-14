@@ -1,7 +1,7 @@
 This is a sample Web Application project for  Continuous Integration/ Continous Delivery.
 TOOLS used - Jenkins, Tomcat, Github, Sonarqube
 
-#Tomcat Instruction
+Tomcat Instruction
 Configure your tomcat-users.xml file so that your user has sufficient permissions to deploy.
 
 <role rolename="manager-script"/>
