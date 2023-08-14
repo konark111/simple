@@ -1,23 +1,18 @@
-This is a sample Web Application to use during Continuous Integration demos.
+This is a sample Web Application project for  Continuous Integration/ Continous Delivery.
+TOOLS used - Jenkins, Tomcat, Github, Sonarqube
 
-#Build Instruction
+#Tomcat Instruction
+Configure your tomcat-users.xml file so that your user has sufficient permissions to deploy.
 
-#
-#
-
-
-```
-mvn3 clean package
-```
-
-sss
-
-#Deploy instruction
+<role rolename="manager-script"/>
+<role rolename="manager-jmx"/>
+<user username="tomcat" password="s3cret" roles="manager-script,manager-jmx"/>
+<role rolename="admin-gui" />
+<user username="admin" password="Nikkikutti123#" roles="manager-gui,admin-gui" />
+--------BEFORE ENDING TAG---------------
 
 
 
 Deploy ```target/poo.war``` on Tomcat
  
-#TODO
- 
-Add instruction to deploy to ElasticBeanstalk
+
