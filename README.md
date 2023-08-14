@@ -11,7 +11,5 @@ Configure your tomcat-users.xml file so that your user has sufficient permission
 <user username="admin" password="Nikkikutti123#" roles="manager-gui,admin-gui" />
 --------BEFORE ENDING TAG
 
-
-Deploy ```target/poo.war``` on Tomcat
  
 
