@@ -17,7 +17,7 @@ Add required plugins i.e sonarqube, deploy to war container
 Add build tool maven 
 Add sonarquber server and tool
 Configure credentials
-
+Configure github webhook for continous deployment 
 run pipeline and if it does not run successfully, take a debug dive
 
 
