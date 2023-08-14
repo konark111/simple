@@ -11,5 +11,15 @@ Configure your tomcat-users.xml file so that your user has sufficient permission
 <user username="admin" password="Nikkikutti123#" roles="manager-gui,admin-gui" />
 --------BEFORE ENDING TAG
 
+Configure sonarqube with required info
+Create jenkins pipeline 
+Add required plugins i.e sonarqube, deploy to war container
+Add build tool maven 
+Add sonarquber server and tool
+Configure credentials
+
+run pipeline
+
+
  
 
