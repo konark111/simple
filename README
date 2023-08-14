@@ -18,7 +18,7 @@ Add build tool maven
 Add sonarquber server and tool
 Configure credentials
 
-run pipeline
+run pipeline and if it does not run successfully, take a debug dive
 
 
  
